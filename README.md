@@ -6,3 +6,7 @@ Packages use to make code functional Node.js, MySQL, express.js Sequelize.
 
 
 Link to GitHub REPO  https://github.com/TDavid99/e-commerce-backend
+
+video link: https://watch.screencastify.com/v/XhzbDNlxJUuOm5mUZviP
+
+![Alt text](./images/Screenshot%20(254).png )
